@@ -33,16 +33,22 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-
 ## Run dev
+
 npm run dev
 
 ## Run build production
+
 npm run build
 
 ## Run production build
+
 npm start
 
 ## To use the producction data
+
 To use the producction data you need to uncomment enviroment variable called NEXT_PUBLIC_API_URL
 
+## web URL
+
+https://djeventsfrontend1231423.vercel.app
